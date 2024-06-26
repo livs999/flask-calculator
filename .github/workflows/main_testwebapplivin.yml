@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'TestWebAppLivin'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E9187D0BDAD04F9A8F3E6D6FA735C6E0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC8EA7C3631B4438979733131CE99E56 }}
